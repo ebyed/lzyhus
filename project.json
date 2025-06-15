@@ -1,0 +1,38 @@
+{
+  "project": {
+    "id": "pmbqq2bah",
+    "name": "Lazy Husband Gifting App",
+    "description": "A zero-effort gifting service where forgetful husbands sign up once, enter key dates, and receive perfect gifts automatically on special occasions.",
+    "emoji": "🎁",
+    "context": "",
+    "created": "2025-06-10T16:15:14.345Z",
+    "modified": "2025-06-10T16:15:14.345Z"
+  },
+  "context": {
+    "projectSummary": "",
+    "pastConversations": {
+      "keyInsights": [],
+      "decisions": [],
+      "outcomes": []
+    },
+    "userPreferences": {
+      "patterns": [],
+      "preferences": [],
+      "generalRules": [],
+      "workingStyle": ""
+    },
+    "currentState": {
+      "lastWorkingOn": "",
+      "currentFocus": "",
+      "nextSteps": [],
+      "blockers": []
+    },
+    "metadata": {
+      "lastUpdated": "2025-06-10T16:15:14.346Z",
+      "interactionCount": 0,
+      "contextVersion": "1.0"
+    }
+  },
+  "exportedAt": "2025-06-15T05:37:30.089Z",
+  "version": "1.0"
+}
